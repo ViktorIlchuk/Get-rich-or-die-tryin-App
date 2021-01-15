@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/get-rich-or-die-tryin-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/get-rich-or-die-tryin-app/static/js/main.63b66a8c.chunk.js",
+    "main.js.map": "/get-rich-or-die-tryin-app/static/js/main.63b66a8c.chunk.js.map",
+    "runtime-main.js": "/get-rich-or-die-tryin-app/static/js/runtime-main.dcab3496.js",
+    "runtime-main.js.map": "/get-rich-or-die-tryin-app/static/js/runtime-main.dcab3496.js.map",
+    "static/js/2.ad1fc497.chunk.js": "/get-rich-or-die-tryin-app/static/js/2.ad1fc497.chunk.js",
+    "static/js/2.ad1fc497.chunk.js.map": "/get-rich-or-die-tryin-app/static/js/2.ad1fc497.chunk.js.map",
+    "static/js/3.9a2b19dd.chunk.js": "/get-rich-or-die-tryin-app/static/js/3.9a2b19dd.chunk.js",
+    "static/js/3.9a2b19dd.chunk.js.map": "/get-rich-or-die-tryin-app/static/js/3.9a2b19dd.chunk.js.map",
+    "index.html": "/get-rich-or-die-tryin-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/get-rich-or-die-tryin-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ad1fc497.chunk.js.LICENSE.txt": "/get-rich-or-die-tryin-app/static/js/2.ad1fc497.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/get-rich-or-die-tryin-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcab3496.js",
+    "static/js/2.ad1fc497.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.63b66a8c.chunk.js"
+  ]
+}
